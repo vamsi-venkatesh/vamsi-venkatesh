@@ -23,7 +23,7 @@ End to end for a B2B produce business in Bengaluru.
 
 [Lead Desk](https://lab.vvdexops.com/agent-services/services/lead-desk.html) is the lab's service running in production. Seven open sources every morning across five cities, rules first, a model asked only when the rules cannot answer, under a daily cap and with a receipt for every call. It also carries market prices for 42 catalogue items. Delivery goes over the company's own WhatsApp business number and mailbox; one-word owner replies update the register; every run is hash-sealed.
 
-Measured so far: 1,175 leads from seven sources in the first two days, 119 of them with a working phone. Five digests delivered and read on 12 September 2026. Model spend of ₹12.36 over 64 calls, no errors. The harness runs 119 cases with 117 passing and 2 kept failing, alongside 347 tests. The engine is public at [vamsi-venkatesh/buyer-radar](https://github.com/vamsi-venkatesh/buyer-radar).
+Measured so far: 1,175 leads from seven sources in the first two days, 119 of them with a working phone. Five digests delivered and read on 12 September 2026. Model calls run under a daily cap, through a cache, with a receipt per call; 64 calls on the five-city day, no errors. The harness runs 119 cases with 117 passing and 2 kept failing, alongside 347 tests. The engine is public at [vamsi-venkatesh/buyer-radar](https://github.com/vamsi-venkatesh/buyer-radar).
 
 ## Selected collaborations
 
