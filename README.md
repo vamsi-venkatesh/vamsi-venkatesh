@@ -2,31 +2,57 @@
 
 **AI Systems & Product Engineer**
 
-I build agent-driven products and evaluation systems, with deterministic checks, isolated execution and evidence that can be inspected.
+I build AI-powered products, multi-agent systems, workflow automation and evaluation systems, combining model reasoning with deterministic software, testing and evidence that can be inspected.
 
-- **[UnboundPDF](https://github.com/vamsi-venkatesh/unboundpdf)** — selected runnable source and verification for browser-local PDF processing; the complete production product remains private.
-- **[VVDex Forge proof](https://github.com/vamsi-venkatesh/vvdex-forge-proof)** — evaluation methodology, certification receipts and verified reports. The reusable evaluation engine and exams remain private.
-- **[Annotation evidence](https://vvdexops.com/annotation/)** — five certified fixtures covering robotic video, images, text, structured data and audio; certification evidence, not model performance claims.
-- **[Label Studio SDK contribution](https://github.com/HumanSignal/label-studio-sdk/pull/824)** — WebP support for brush-to-COCO export, with regression tests; pull request open for review.
-- **[Prime contribution](https://github.com/PrimeIntellect-ai/community-environments/pull/780)** — a public software-repair environment for an upstream xmltodict defect; pull request open for review.
-- **[Portfolio](https://vamsivenkatesh.com/)** — products, architecture and engineering case studies.
+These repositories publish selected product source, production case studies, agent workflows, evaluation methodology and verification artifacts. Each project states what is live, what is demonstrated, what can be reproduced and what remains private.
 
-## Agent Service Lab
+## Products & systems
 
-[49 agent services](https://lab.vvdexops.com/agent-services/), each authored as an executable graph with one exception-only human gate and a run stage that ends in a sealed receipt. 2,842 compiled evaluation cases, 0 failing. Three of the services are published in full at [vamsi-venkatesh/agent-services](https://github.com/vamsi-venkatesh/agent-services).
+### [Agent Service Lab](https://github.com/vamsi-venkatesh/agent-services)
 
-## Client project: FarmQuick
+AI and agent services built as governed workflows that combine model reasoning, specialist agents, deterministic operations, independent verification and human-controlled external actions.
 
-End to end for a B2B produce business in Bengaluru.
+The public repository publishes selected service definitions in full, together with schemas, structural validation, deterministic replay tooling and verifiable run receipts. The wider product is published at [lab.vvdexops.com/agent-services](https://lab.vvdexops.com/agent-services/).
 
-[farmquick.in](https://farmquick.in) is the ordering web app: mobile first on Cloudflare, with a catalogue, bulk enquiry, a central order store, and self-hosted n8n handling validation and acknowledgements. A person confirms every order. An order placed on the site is stored, acknowledged to the buyer, sent to the owner, written into the Lead Desk register as a won lead, and counted in the weekly report by buyer, product and city, with a copy in the business's Google Sheet.
+### [VVDex Forge](https://github.com/vamsi-venkatesh/vvdex-forge-proof)
 
-[Lead Desk](https://lab.vvdexops.com/agent-services/services/lead-desk.html) is the lab's service running in production. Seven open sources every morning across five cities, rules first, a model asked only when the rules cannot answer, under a daily cap and with a receipt for every call. It also carries market prices for 42 catalogue items. Delivery goes over the company's own WhatsApp business number and mailbox; one-word owner replies update the register; every run is hash-sealed.
+An evaluation system for AI models and agents covering task certification, isolated execution, deterministic grading, adversarial checks and evidence-backed reporting.
 
-Measured so far: 1,175 leads from seven sources in the first two days, 119 of them with a working phone. Five digests delivered and read on 12 September 2026. Model calls run under a daily cap, through a cache, with a receipt per call; 64 calls on the five-city day, no errors. The harness runs 119 cases with 117 passing and 2 kept failing, alongside 394 tests. The engine is public at [vamsi-venkatesh/buyer-radar](https://github.com/vamsi-venkatesh/buyer-radar).
+The proof repository publishes methodology, certification receipts, campaign reports and artifact-verification scripts. The evaluation engine, hidden graders, protected task material and canonical sealed records remain private.
+
+### [Conxto](https://github.com/vamsi-venkatesh/conxto)
+
+An AI-powered job and application product combining its own job search engine with model routing, memory, coordinated specialist agents, deterministic eligibility checks and approval-controlled workflows.
+
+Conxto is in private beta. The public repository documents the product, architecture, screenshots and beta limitations; the application code remains private.
+
+### [UnboundPDF](https://github.com/vamsi-venkatesh/unboundpdf)
+
+A browser-local document suite with selected runnable source for PDF processing, OCR and redaction verification.
+
+The public repository includes representative tools, browser tests and verification for the published surface. The complete production product remains private.
+
+## Production case study
+
+### [FarmQuick / Buyer Radar](https://github.com/vamsi-venkatesh/buyer-radar)
+
+FarmQuick is a B2B fresh-produce business in Bengaluru and the reference deployment for Buyer Radar.
+
+The engagement connects the ordering site, self-hosted n8n workflows, the business register and Google Sheets with an AI-assisted buyer-intelligence service. Buyer Radar discovers buyer and procurement signals from permitted public sources, scores them deterministically, uses a model only where the rules cannot resolve the case, tracks market prices and delivers a receipted morning digest through the business's own channels.
+
+The return path is connected too: owner replies update the register, and orders arriving through [farmquick.in](https://farmquick.in/) flow through n8n into the same operating system. The repository contains the runnable service, evaluation harness, sanitized n8n exports, dashboard screenshots, deployment documentation and a dated FarmQuick case study.
+
+## Contributions
+
+- **[Label Studio SDK](https://github.com/HumanSignal/label-studio-sdk/pull/824)** — submitted WebP support for brush-to-COCO export, with regression tests; pull request open for review.
+- **[Prime Intellect community-environments](https://github.com/PrimeIntellect-ai/community-environments/pull/780)** — submitted a deterministic software-repair environment for a public xmltodict defect; pull request open for review.
+
+## Annotation evidence
+
+- **[Annotation evidence](https://vvdexops.com/annotation/)** — five certified fixtures covering robotic video, images, text, structured data and audio. Fixture certification and model-performance results are reported separately.
 
 ## Selected collaborations
 
 I take on ambitious agent-product, evaluation and integration work where the outcome matters more than a menu of hours or commodity deliverables. Engagements are scoped around the product, evidence standard and business value.
 
-[Explore Forge](https://vvdexops.com/) · [Get in touch](https://vvdexops.com/connect/)
+[Portfolio](https://vamsivenkatesh.com/) · [Explore Forge](https://vvdexops.com/) · [Get in touch](https://vvdexops.com/connect/)
