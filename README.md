@@ -11,6 +11,20 @@ I build agent-driven products and evaluation systems, with deterministic checks,
 - **[Prime contribution](https://github.com/PrimeIntellect-ai/community-environments/pull/780)** — a public software-repair environment for an upstream xmltodict defect; pull request open for review.
 - **[Portfolio](https://vamsivenkatesh.com/)** — products, architecture and engineering case studies.
 
+## Agent Service Lab
+
+[49 agent services](https://lab.vvdexops.com/agent-services/), each authored as an executable graph with one exception-only human gate and a run stage that ends in a sealed receipt. 2,842 compiled evaluation cases, 0 failing. Three of the services are published in full at [vamsi-venkatesh/agent-services](https://github.com/vamsi-venkatesh/agent-services).
+
+## Client project: FarmQuick
+
+End to end for a B2B produce business in Bengaluru.
+
+[farmquick.in](https://farmquick.in) is the ordering web app: mobile first on Cloudflare, with a catalogue, bulk enquiry, a central order store, and self-hosted n8n handling validation and acknowledgements. A person confirms every order.
+
+[Lead Desk](https://lab.vvdexops.com/agent-services/services/lead-desk.html) is the lab's service running in production. Seven open sources every morning across five cities, rules first, a model asked only when the rules cannot answer, under a daily cap and with a receipt for every call. It also carries market prices for 42 catalogue items. Delivery goes over the company's own WhatsApp business number and mailbox; one-word owner replies update the register; every run is hash-sealed.
+
+Measured so far: 1,175 leads from seven sources in the first two days, 119 of them with a working phone. Five digests delivered and read on 12 September 2026. Model spend of ₹12.36 over 64 calls, no errors. The harness runs 119 cases with 117 passing and 2 kept failing, alongside 347 tests. The engine is public at [vamsi-venkatesh/buyer-radar](https://github.com/vamsi-venkatesh/buyer-radar).
+
 ## Selected collaborations
 
 I take on ambitious agent-product, evaluation and integration work where the outcome matters more than a menu of hours or commodity deliverables. Engagements are scoped around the product, evidence standard and business value.
