@@ -8,6 +8,12 @@ These repositories publish selected product source, production case studies, age
 
 ## Products & systems
 
+### [PitchRadar](https://github.com/vamsi-venkatesh/pitchradar)
+
+Commercial-opportunity intelligence for a mobile event business in Germany. Discovers and qualifies events, resolves organizers and application routes, monitors deadlines, ranks opportunities and turns them into an evidence-backed action queue.
+
+The public repository contains the sanitized engineering core, tests/evaluations, product screenshots and sample PDF/XLSX reports; private operator data and deployment infrastructure remain private.
+
 ### [Agent Service Lab](https://github.com/vamsi-venkatesh/agent-services)
 
 AI and agent services built as governed workflows that combine model reasoning, specialist agents, deterministic operations, independent verification and human-controlled external actions.
