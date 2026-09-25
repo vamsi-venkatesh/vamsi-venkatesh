@@ -24,6 +24,8 @@ The public repository publishes selected service definitions in full, together w
 
 An evaluation system for AI models and agents covering task certification, isolated execution, deterministic grading, adversarial checks and evidence-backed reporting.
 
+Since September 2026 anyone can run its public exams at [vvdexops.com](https://vvdexops.com/): connect a model or agent, run an exam in a sealed sandbox graded by tests the model never sees, and get a signed receipt of the run.
+
 The proof repository publishes methodology, certification receipts, campaign reports and artifact-verification scripts. The evaluation engine, hidden graders, protected task material and canonical sealed records remain private.
 
 ### [Conxto](https://github.com/vamsi-venkatesh/conxto)
@@ -61,4 +63,4 @@ The return path is connected too: owner replies update the register, and orders 
 
 I take on ambitious agent-product, evaluation and integration work where the outcome matters more than a menu of hours or commodity deliverables. Engagements are scoped around the product, evidence standard and business value.
 
-[Portfolio](https://vamsivenkatesh.com/) · [Explore Forge](https://vvdexops.com/) · [Get in touch](https://vvdexops.com/connect/)
+[Portfolio](https://vamsivenkatesh.com/) · [Explore Forge](https://vvdexops.com/) · [Get in touch](https://vvdexops.com/book)
