@@ -14,6 +14,6 @@ AI product engineer in Magdeburg, Germany. I design, build and run AI products e
 
 **Client work** · [FarmQuick](https://farmquick.in/) ordering site and buyer-finding agent · [PitchRadar](https://github.com/vamsi-venkatesh/pitchradar) event intelligence for a food vendor
 
-**Open source and design** · [Portfolio designs](https://vamsi-venkatesh.github.io/portfolio-designs/) · [Eval Hub](https://github.com/vamsi-venkatesh/evalhub) · [VVDex Dots UI](https://github.com/vamsi-venkatesh/vvdex-dots-ui) · [Label Studio SDK #824](https://github.com/HumanSignal/label-studio-sdk/pull/824)
+**Open source and design** · [The Board](https://github.com/vamsi-venkatesh/portfolio-board) (source of vamsivenkatesh.com) · [Portfolio designs](https://vamsi-venkatesh.github.io/portfolio-designs/) · [Eval Hub](https://github.com/vamsi-venkatesh/evalhub) · [VVDex Dots UI](https://github.com/vamsi-venkatesh/vvdex-dots-ui) · [Label Studio SDK #824](https://github.com/HumanSignal/label-studio-sdk/pull/824)
 
 [vamsivenkatesh.com](https://vamsivenkatesh.com/) · [LinkedIn](https://www.linkedin.com/in/vamsivenkatesh) · vamsi@vamsivenkatesh.com
